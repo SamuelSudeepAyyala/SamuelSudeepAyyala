@@ -45,7 +45,7 @@
 ## 🎓 Education
 
 **Master of Science in Computer Science & Engineering**  
-_New Jersey Institute of Technology_ — May 2025 (GPA: 3.44)  
+_New Jersey Institute of Technology_ — May 2025 (GPA: 3.5/4)  
 
 **Bachelor of Technology in Computer Science & Engineering**  
 _Karunya Institute of Technology and Sciences_ — May 2020 (CGPA: 7.83/10)
