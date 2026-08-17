@@ -1,103 +1,199 @@
+<div align="center">
 
-# Samuel Sudeep Ayyala
-**Location:** Newark, NJ, USA  
-**Phone:** +1 551-250-7415  
-**Email:** ayyalasamuelsudeep@gmail.com  
-**LinkedIn:** [linkedin.com/in/samuelsudeepayyala](https://www.linkedin.com/in/samuelsudeepayyala)  
-**GitHub:** [github.com/SamuelSudeepAyyala](https://github.com/SamuelSudeepAyyala)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,52:4f46e5,100:14b8a6&height=230&section=header&text=Samuel%20Sudeep%20Ayyala&fontSize=43&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Software%20%E2%80%A2%20Platform%20%E2%80%A2%20DevOps%20Engineering&descAlignY=55&descSize=18" alt="Samuel Sudeep Ayyala" />
 
----
-## 🚀 Tech Stack
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=850&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+software+that+survives+production;Cloud-native+delivery+%7C+Kubernetes+%7C+GitOps;Backend+engineering+%7C+.NET+%7C+Python;Observability+%7C+CI%2FCD+%7C+Developer+platforms;Practical+AI+automation+with+human+approval" alt="Typing animation" />
+</a>
 
-**Core Development**  
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+<br/>
 
-**Frameworks & Libraries**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://samuelsudeepayyala.github.io/samuel-sudeep-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelsudeepayyala/)
+[![Email](https://img.shields.io/badge/Email-Contact-14B8A6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayyalasamuelsudeep@gmail.com)
 
-**DevOps & Cloud**  
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Profile views](https://komarev.com/ghpvc/?username=SamuelSudeepAyyala&style=flat-square&color=2563eb&label=PROFILE+VIEWS)
 
-**Database & Tools**  
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
-![Axure RP](https://img.shields.io/badge/Axure_RP-33AADD?style=flat&logo=axure&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
-
+</div>
 
 ---
+
+## 👋 About me
+
+I’m a **Software & Platform Engineer** working across application code, cloud-native delivery, CI/CD, observability and developer-platform workflows.
+
+- 🏗️ **Current:** Software Engineering Intern at **Incident IQ** — **Jun 2026 → Present**
+- ☁️ Working on **platform modernization, Kubernetes-based delivery, automated validation, CI/CD reliability and observability**
+- 🧠 Building deeper ownership across **backend systems, distributed application delivery and production engineering**
+- 🤖 Exploring **practical AI-assisted engineering** where automation stays reviewable and human-approved
+- 🎓 M.S. in **Computer Science**, New Jersey Institute of Technology — **2025**
+- 🌎 Based in the **United States** and open to **Software, Platform and DevOps engineering** opportunities
+
+> I like the layer where application engineering and infrastructure meet: making software easier to ship, observe, debug and trust.
+
+---
+
+## ⚡ What I’m focused on now
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🔨 Building
+A job-application workspace with authenticated profiles, private data boundaries, backend persistence and human-approved automation.
+
+</td>
+<td width="33%" valign="top">
+
+### 📈 Deepening
+Kubernetes, GitOps, observability, backend reliability, CI/CD architecture and production-oriented engineering.
+
+</td>
+<td width="33%" valign="top">
+
+### 🎯 Looking for
+Software, Platform or DevOps roles where application engineering and infrastructure concerns overlap.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 Engineering stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,python,ts,js,angular,react,nextjs,fastapi,docker,kubernetes,githubactions,azure,aws,postgres,redis,grafana,linux,git&perline=10" alt="Engineering stack" />
+
+</div>
+
+<br/>
+
+**Platform & Delivery**  
+`Kubernetes` · `Docker` · `GitHub Actions` · `Azure DevOps` · `GitOps` · `Argo CD` · `Kustomize` · `Linux` · `Vault`
+
+**Backend & APIs**  
+`.NET / C#` · `Python` · `FastAPI` · `REST APIs` · `PostgreSQL` · `SQL Server` · `Redis`
+
+**Frontend**  
+`Angular` · `React` · `Next.js` · `TypeScript` · `JavaScript`
+
+**Observability & Quality**  
+`Grafana` · `Prometheus` · `Loki` · `Splunk` · `Cypress` · `Pytest` · `Security Testing`
+
+---
+
+## 🚀 Selected work
+
+### 🧩 Developer Platform & Ephemeral Environments — Incident IQ
+
+Worked across application, deployment and validation layers to improve how engineering changes are delivered and verified in isolated cloud-native environments.
+
+`Kubernetes` `GitOps` `Argo CD` `Kustomize` `Docker` `.NET` `GitHub Actions` `Cypress` `Observability`
+
+**Focus:** repeatable deployment patterns · automated health/smoke validation · cross-repository troubleshooting · CI modernization · production feedback loops
+
+---
+
+### 🤖 Job Application Assistant — active build
+
+A private, human-approved job-application workspace designed around authenticated candidate profiles, isolated persistence, resume-evidence review and browser-assisted workflows.
+
+`Next.js` `FastAPI` `PostgreSQL` `Clerk` `TypeScript` `Python` `Manifest V3`
+
+> Repository is private while the product is under active development. Architecture and progress are showcased on my portfolio.
+
+[![View case study](https://img.shields.io/badge/View_on_Portfolio-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://samuelsudeepayyala.github.io/samuel-sudeep-portfolio/#projects)
+
+---
+
+### 📊 AIOps / Intelligent Observability Lab
+
+Containerized observability work around metrics, dashboards, logs, alerting and the path toward anomaly-assisted incident detection.
+
+`Prometheus` `Grafana` `Loki` `Alertmanager` `Python` `Docker`
+
+[![Repository](https://img.shields.io/badge/Repository-AiOps-181717?style=flat-square&logo=github)](https://github.com/SamuelSudeepAyyala/AiOps)
+
+---
+
+### 🌐 Portfolio Engineering
+
+My portfolio itself is maintained as a production-style Angular project with responsive dark/light themes, accessibility refinements, regression checks and automated GitHub Pages deployment.
+
+`Angular` `TypeScript` `GitHub Actions` `GitHub Pages` `Responsive UI` `Accessibility`
+
+[![Live](https://img.shields.io/badge/Live_Portfolio-14B8A6?style=flat-square&logo=googlechrome&logoColor=white)](https://samuelsudeepayyala.github.io/samuel-sudeep-portfolio/)
+[![Source](https://img.shields.io/badge/Source-samuel--sudeep--portfolio-181717?style=flat-square&logo=github)](https://github.com/SamuelSudeepAyyala/samuel-sudeep-portfolio)
+
+---
+
+## 💼 Experience
+
+```text
+2026 — Present   Incident IQ
+                 Software Engineering Intern
+                 Platform delivery • cloud-native systems • reliability • observability
+
+2025 — 2026      Community Dreams Foundation
+                 Software Engineer
+                 Web product development • data workflows • search • user-facing features
+
+2020 — 2023      Accenture
+                 Application Development Analyst
+                 .NET • Angular • APIs • CI/CD • Linux • monitoring • security testing
+```
+
+---
+
 ## 🎓 Education
 
-**Master of Science in Computer Science & Engineering**  
-_New Jersey Institute of Technology_ — May 2025 (GPA: 3.5/4)  
+**New Jersey Institute of Technology**  
+Master of Science in Computer Science · **2025**
 
-**Bachelor of Technology in Computer Science & Engineering**  
-_Karunya Institute of Technology and Sciences_ — May 2020 (CGPA: 7.83/10)
-
----
-
-## 💼 Professional Experience
-
-**Application Development Analyst**  
-_Accenture – Bengaluru, India | Nov 2020 – Aug 2023_  
-- Developed enterprise web apps using C# (.NET) and Angular, enhancing UI/UX and backend integration.  
-- Reduced deployment time by 50% via CI/CD pipelines with Azure DevOps.  
-- Conducted penetration testing using Burp Suite; identified SQL injection and buffer overflow vulnerabilities.  
-- Improved system monitoring with Splunk, resolving Linux (CentOS) server issues within 30 mins on average.  
-- Delivered detailed risk assessment reports via Fortify, doubling security effectiveness.
-
-**Web Developer Intern**  
-_Service4Startup – Remote | Mar 2018 – Jun 2018_  
-- Built and modernized responsive websites using HTML, CSS, JavaScript, jQuery, and PHP.  
-- Implemented dynamic PDF certificate generator and cloned Karunya Institute website from template.  
-- Prototyped C# Angular app interfaces with Axure RP to align UI design with client needs.  
-- Collaborated with design teams and stakeholders to iterate on features and functionality.
+**Karunya Institute of Technology and Sciences**  
+Bachelor of Technology in Computer Science & Engineering · **2020**
 
 ---
 
-## 🧪 Projects
+## 📈 GitHub signal
 
-- **Portfolio Website (Angular):** Modular components, GitHub Pages deployment, EmailJS integration.  
-- **Apple Quality Prediction:** Python & R, Random Forest model, achieved 90% classification accuracy.  
-- **Drone-based Plant Disease Detection:** CNN + SVM model, 15% pesticide waste reduction.  
-- **Penetration Testing:** Web app security audit, SQLi/XSS detection, detailed security reports.  
-- **Web Scraping (R):** Extracted journal article metadata, performed EDA to identify trends.
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SamuelSudeepAyyala&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent&title_color=38bdf8&icon_color=14b8a6&text_color=8b949e" alt="Samuel's GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSudeepAyyala&layout=compact&hide_border=true&theme=transparent&title_color=38bdf8&text_color=8b949e&langs_count=8" alt="Samuel's top languages" />
 
-## 🛠 Technical Skills
+<br/>
 
-**Languages & Frameworks:** C#, Python, .NET, Angular, React.js, JavaScript, HTML5, CSS3, R, PHP  
-**DevOps & Cloud:** Azure DevOps, Docker, Jenkins, Kubernetes, Linux (CentOS), Git, TFVC  
-**Tools & Testing:** Burp Suite, Fortify, Splunk, SQL Server, Axure RP, Bootstrap  
-**Web & Data:** REST APIs, Microservices, Web Scraping, Data Analysis, Responsive Design
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SamuelSudeepAyyala&bg_color=00000000&color=64748b&line=2563eb&point=14b8a6&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
+
+</div>
 
 ---
 
-## 📜 Certifications
+## 🧭 Engineering principles
 
-- Scientific Computing with Python – FreeCodeCamp  
-- JavaScript Algorithms and Data Structures – FreeCodeCamp
+```text
+Make the path to production repeatable.
+Make failure observable.
+Automate what is deterministic.
+Keep human judgment where it matters.
+Prefer systems that are easy to explain, test and operate.
+```
 
 ---
 
-## 🤝 Volunteer Experience
+## 🤝 Connect
 
-**Designer – Aasya Foundation (NGO)**  
-- Designed social media posters and web graphics using HTML, CSS, Canva, and Photoshop.
+<div align="center">
+
+**Open to conversations around Software Engineering, Platform Engineering and DevOps.**
+
+[Portfolio](https://samuelsudeepayyala.github.io/samuel-sudeep-portfolio/) · [LinkedIn](https://www.linkedin.com/in/samuelsudeepayyala/) · [Email](mailto:ayyalasamuelsudeep@gmail.com) · [GitHub](https://github.com/SamuelSudeepAyyala)
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,52:4f46e5,100:2563eb&height=120&section=footer" alt="footer" />
+
+</div>
