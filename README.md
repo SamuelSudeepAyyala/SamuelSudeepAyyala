@@ -261,14 +261,18 @@ The portfolio is maintained as a production-style Angular project with dark/ligh
 ### 📈 Stats + languages
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SamuelSudeepAyyala&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&border_radius=12&bg_color=0D1117&title_color=38BDF8&icon_color=14B8A6&text_color=C9D1D9" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=SamuelSudeepAyyala&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&border_radius=12&title_color=2563EB&icon_color=0F766E&text_color=334155" alt="Samuel's GitHub stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SamuelSudeepAyyala&theme=github_dark" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SamuelSudeepAyyala&theme=github" alt="Samuel's GitHub stats" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSudeepAyyala&layout=compact&langs_count=8&hide_border=true&border_radius=12&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSudeepAyyala&layout=compact&langs_count=8&hide_border=true&border_radius=12&title_color=2563EB&text_color=334155" alt="Samuel's top languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SamuelSudeepAyyala&theme=github_dark" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SamuelSudeepAyyala&theme=github" alt="Samuel's repository languages" />
 </picture>
+
+<br/>
+
+<sub>Live summary generated from public GitHub activity and repositories.</sub>
 
 <br/><br/>
 
